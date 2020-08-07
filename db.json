@@ -1,0 +1,224 @@
+{
+  "all-offers": [
+    {
+       "name":"Ashish's Test Offer For New Fields",
+       "category":"Pest Control Services",
+       "payout":{
+          "type":"fixed",
+          "value":12
+       },
+       "duration":90,
+       "lastUpdated":"2020-07-29 11:18:06.647",
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"Auto Insurance Offer",
+       "category":"Insurance Automobile",
+       "payout":{
+          "type":"fixed",
+          "value":7.5
+       },
+       "duration":130,
+       "lastUpdated":"2020-07-29 09:45:17.243",
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"First offer",
+       "category":"Restaurant Equipment & Supplies",
+       "payout":{
+          "type":"fixed",
+          "value":10
+       },
+       "duration":100,
+       "lastUpdated":"2020-07-28 16:08:34.765",
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"First Premium Base Offer",
+       "category":"Pest Control Services",
+       "payout":{
+          "type":"fixed",
+          "value":9
+       },
+       "duration":120,
+       "lastUpdated":"2020-07-01 12:42:21.95",
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"Second Test Offer for Ashish",
+       "category":"Automotive",
+       "payout":{
+          "type":"fixed",
+          "value":15
+       },
+       "duration":45,
+       "lastUpdated":null,
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"Test Offer for Tom - July 29",
+       "category":"Insurance",
+       "payout":{
+          "type":"fixed",
+          "value":7.2
+       },
+       "duration":90,
+       "lastUpdated":"2020-07-29 14:38:41.723",
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    },
+    {
+       "name":"Test Offer Without UX Fields",
+       "category":"Restaurants",
+       "payout":{
+          "type":"fixed",
+          "value":18
+       },
+       "duration":60,
+       "lastUpdated":null,
+       "geography":{
+          "is_national":true,
+          "is_regional":false,
+          "zip_count":0,
+          "state_count":0
+       }
+    }
+  ],
+  "top-five": {
+    "count":7,
+    "results":[
+       {
+          "name":"Test Offer for Tom - July 29",
+          "category":"Insurance",
+          "payout":{
+             "type":"fixed",
+             "value":7.2
+          },
+          "duration":90,
+          "lastUpdated":"2020-07-29 14:38:41.723",
+          "geography":{
+             "is_national":true,
+             "is_regional":false,
+             "zip_count":0,
+             "state_count":0
+          }
+       },
+       {
+          "name":"Pest Control Offer",
+          "category":"Pest Control Services",
+          "payout":{
+             "type":"fixed",
+             "value":5
+          },
+          "duration":150,
+          "lastUpdated":"2020-08-04 08:48:03.882",
+          "geography":{
+             "is_national":false,
+             "is_regional":true,
+             "zip_count":1,
+             "state_count":49
+          }
+       },
+       {
+          "name":"Auto Insurance Offer",
+          "category":"Insurance Automobile",
+          "payout":{
+             "type":"fixed",
+             "value":7.5
+          },
+          "duration":130,
+          "lastUpdated":"2020-07-29 09:45:17.243",
+          "geography":{
+             "is_national":true,
+             "is_regional":false,
+             "zip_count":0,
+             "state_count":0
+          }
+       },
+       {
+          "name":"Test Offer Without UX Fields",
+          "category":"Restaurants",
+          "payout":{
+             "type":"fixed",
+             "value":18
+          },
+          "duration":60,
+          "lastUpdated":null,
+          "geography":{
+             "is_national":true,
+             "is_regional":false,
+             "zip_count":0,
+             "state_count":0
+          }
+       },
+       {
+          "name":"First Premium Base Offer",
+          "category":"Pest Control Services",
+          "payout":{
+             "type":"fixed",
+             "value":9
+          },
+          "duration":120,
+          "lastUpdated":"2020-07-01 12:42:21.95",
+          "geography":{
+             "is_national":true,
+             "is_regional":false,
+             "zip_count":0,
+             "state_count":0
+          }
+       }
+    ]
+  },
+  "testimonials": [
+    {
+       "publisher_testimony_id":1,
+       "name":"Lorem Ipsum",
+       "company":"Ipsum",
+       "title":"Lorem",
+       "message":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+       "publisher_testimony_id":2,
+       "name":"Test Test",
+       "company":"Soleo",
+       "title":"Developer",
+       "message":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+       "publisher_testimony_id":3,
+       "name":"Unknown Provider",
+       "company":"Soleo Communications",
+       "title":"Engineer",
+       "message":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    }
+  ]
+}
